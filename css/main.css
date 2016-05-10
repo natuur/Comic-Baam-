@@ -1,5 +1,5 @@
 .ojos{
-	background-image:url(../ojos.jpg);
+	background-image:url(../img/ojos.jpg);
 	padding-top: 30%;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -29,7 +29,7 @@
 }
 
 .imagenstarwars{
-	background-image: url(../Star-wars.jpg);
+	background-image: url(../img/Star-wars.jpg);
 	padding-top: 20%;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -37,14 +37,14 @@
 }
 
 .imagen-xmen{
-	background-image: url(../X_Men.jpg);
+	background-image: url(../img/X_Men.jpg);
 	padding-top: 20%;
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 
 .imagen-guason{
-	background-image: url(../guason.png);
+	background-image: url(../img/guason.png);
 	padding-top: 30%;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -56,7 +56,7 @@
   }
 
 .imagen-spiderman{
-	background-image: url(../spiderman.jpg);
+	background-image: url(../img/spiderman.jpg);
 	padding-top: 40%;
 	background-repeat: no-repeat;
 	background-size: cover;	
